@@ -1,0 +1,6 @@
+﻿  postfix.cpp
+  postfixclass.cpp
+  stack.cpp
+  Generating Code...
+d:\training programming\c++\projects\postfixclass\postfixclass\stack.cpp(45): warning C4715: 'stack::pop': not all control paths return a value
+  postfixclass.vcxproj -> D:\Training programming\c++\Projects\postfixclass\Debug\postfixclass.exe

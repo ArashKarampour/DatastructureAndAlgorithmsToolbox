@@ -1,0 +1,5 @@
+﻿  peymayeshha.cpp
+  stack.cpp
+  Generating Code...
+d:\training programming\c++\projects\peymayeshha\peymayeshha\stack.cpp(44): warning C4715: 'stack::pop': not all control paths return a value
+  peymayeshha.vcxproj -> D:\Training programming\c++\Projects\peymayeshha\Debug\peymayeshha.exe

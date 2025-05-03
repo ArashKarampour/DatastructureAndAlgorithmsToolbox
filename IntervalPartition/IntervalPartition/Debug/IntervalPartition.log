@@ -1,0 +1,17 @@
+﻿  Inp.cpp
+d:\training programming\c++\projects\intervalpartition\intervalpartition\inp.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\training programming\c++\projects\intervalpartition\intervalpartition\inp.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  IntervalPartition.cpp
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(13): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(15): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(21): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(28): warning C4305: '=': truncation from 'double' to 'float'
+d:\training programming\c++\projects\intervalpartition\intervalpartition\intervalpartition.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+  Lecture.cpp
+  Generating Code...
+  IntervalPartition.vcxproj -> D:\Training programming\c++\Projects\IntervalPartition\Debug\IntervalPartition.exe

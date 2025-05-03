@@ -1,0 +1,3 @@
+﻿  ClosestPairOfPoints.cpp
+d:\training programming\c++\projects\closestpairofpoints\closestpairofpoints\closestpairofpoints.cpp(37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ClosestPairOfPoints.vcxproj -> D:\Training programming\c++\Projects\ClosestPairOfPoints\Debug\ClosestPairOfPoints.exe

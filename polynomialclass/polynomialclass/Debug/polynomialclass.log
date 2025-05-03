@@ -1,0 +1,4 @@
+﻿  polynomial.cpp
+d:\training programming\c++\projects\polynomialclass\polynomialclass\polynomial.cpp(62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\training programming\c++\projects\polynomialclass\polynomialclass\polynomial.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  polynomialclass.vcxproj -> D:\Training programming\c++\Projects\polynomialclass\Debug\polynomialclass.exe
